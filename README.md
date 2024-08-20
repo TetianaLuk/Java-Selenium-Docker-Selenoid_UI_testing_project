@@ -17,7 +17,7 @@ Before you can run this project, you must have the following software installed 
 ## 🛠️ Installation
 1. Clone this repository to your local machine.   
    ```sh
-   git clone https://github.com/TetianaLuk/repo3.git
+   git clone https://github.com/TetianaLuk/Java-Selenium-Docker-Selenoid_UI_testing_project.git
    ```
 2. Open the command line and run following commands to pull necessary Docker images:
    ```sh
